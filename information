@@ -1,0 +1,20 @@
+1. Create React + Typescript application using below command.
+    > npx create-react-app react-list-app --template typescript
+
+2. Install missing packages.
+    > npm install
+
+3. Run Application 
+    > npm start
+
+*********************Project Description****************************
+1. Show simple list. Pass list object from parent component to child component.
+2. Create file(component): components/Invoice/InvoiceList.tsx to render the list.
+3. Create file: components/index.ts for indexing.
+4. Call InvoiceList.tsx component from the App.tsx and pass InvoiceList object as a props.
+
+
+
+
+
+
